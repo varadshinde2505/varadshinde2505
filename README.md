@@ -119,17 +119,6 @@ Technologies: STM32, DHT22, YL-83 Rain Sensor, Embedded C
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadshinde2505&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadshinde2505&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
 
 ## Connect With Me
 
