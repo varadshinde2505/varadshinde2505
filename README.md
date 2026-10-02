@@ -127,7 +127,6 @@ Technologies: STM32, DHT22, YL-83 Rain Sensor, Embedded C
 - GitHub: https://github.com/varadshinde2505
 
 ---
-
 ## Motto
 
 > “Building intelligent systems that connect hardware, software, and real-world impact.”
